@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/PC%2018/Documents/NetBeansProjects/farres/src/Config/config.java</file>
-            <file>file:/C:/Users/PC%2018/Documents/NetBeansProjects/farres/src/Main/Main.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/farres/src/main/Main.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/farres/src/superadmin/SuperAdmin.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/farres/src/tenants/Tenant.java</file>
+            <file>file:/C:/Users/ACER/OneDrive/Documents/NetBeansProjects/farres/src/admin/Admin.java</file>
         </group>
     </open-files>
 </project-private>
